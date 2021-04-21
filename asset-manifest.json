@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/adsoul/static/css/main.2fd49873.chunk.css",
-    "main.js": "/adsoul/static/js/main.a472bee0.chunk.js",
-    "main.js.map": "/adsoul/static/js/main.a472bee0.chunk.js.map",
+    "main.css": "/adsoul/static/css/main.185d78f9.chunk.css",
+    "main.js": "/adsoul/static/js/main.19e9e61c.chunk.js",
+    "main.js.map": "/adsoul/static/js/main.19e9e61c.chunk.js.map",
     "runtime-main.js": "/adsoul/static/js/runtime-main.d5fd2d4f.js",
     "runtime-main.js.map": "/adsoul/static/js/runtime-main.d5fd2d4f.js.map",
-    "static/js/2.e0483252.chunk.js": "/adsoul/static/js/2.e0483252.chunk.js",
-    "static/js/2.e0483252.chunk.js.map": "/adsoul/static/js/2.e0483252.chunk.js.map",
+    "static/js/2.cee0ab15.chunk.js": "/adsoul/static/js/2.cee0ab15.chunk.js",
+    "static/js/2.cee0ab15.chunk.js.map": "/adsoul/static/js/2.cee0ab15.chunk.js.map",
     "index.html": "/adsoul/index.html",
-    "static/css/main.2fd49873.chunk.css.map": "/adsoul/static/css/main.2fd49873.chunk.css.map",
-    "static/js/2.e0483252.chunk.js.LICENSE.txt": "/adsoul/static/js/2.e0483252.chunk.js.LICENSE.txt",
+    "static/css/main.185d78f9.chunk.css.map": "/adsoul/static/css/main.185d78f9.chunk.css.map",
+    "static/js/2.cee0ab15.chunk.js.LICENSE.txt": "/adsoul/static/js/2.cee0ab15.chunk.js.LICENSE.txt",
     "static/media/asset1.6ce40959.svg": "/adsoul/static/media/asset1.6ce40959.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5fd2d4f.js",
-    "static/js/2.e0483252.chunk.js",
-    "static/css/main.2fd49873.chunk.css",
-    "static/js/main.a472bee0.chunk.js"
+    "static/js/2.cee0ab15.chunk.js",
+    "static/css/main.185d78f9.chunk.css",
+    "static/js/main.19e9e61c.chunk.js"
   ]
 }
